@@ -1,4 +1,4 @@
-### Olá! eu sou o Vinicios Castro 👋
+### Olá! eu sou o Vinicios Castro, estudante de Ciência da Computação e amante da tecnlogia 👋
 
 <!--
 **Vinicioscastro/Vinicioscastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
